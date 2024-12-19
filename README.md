@@ -1,3 +1,6 @@
+![Capture](https://github.com/user-attachments/assets/f7d0d3e8-ed2f-4ff4-b76e-40c69c71be52)
+
+
 "Learn the Date Object by Building a Date Formatter"
 This project is an engaging web application focused on understanding and utilizing the Date object in JavaScript. Users can view today's date in different formats, including "Day, Month, Year," "Year, Month, Day," and "Month, Day, Year, Hours, Minutes." The application dynamically updates the displayed format based on user selection via a dropdown menu.
 
